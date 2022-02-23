@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+  margin:auto;
+}
+.box1{
+  background-position: center;
+  background-image: url('./image/home/sailboat.png');
+  flex-direction: column;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon1{
+  align-self: flex-end;
+  height:0ex;
+  margin-left: 1rem;
+}
+.input1{
+  flex-direction: Row;
+  display:flex;
+}
+
+form input{
+  height: 40px;
+  margin-left: 1rem;
+  border-radius: 20px;
+  border-width: 0px;
+
+}
+
+form{
+  margin-left: 5rem.5rem;
+  display:flex;
+  align-items: center;
+}
+
+.welcome1 {
+  max-width:100%;
+  height: 780px;
+  text-align:center;
+}
+.thailand{
+  justify-content: center;
+  align-items: center;
+  text-align:center;
+}
+.box2 h1{
+  color: #151B47;
+}
+.box3{
+  justify-content: center;
+  align-items: center;
+  text-align:center;
+}
+.box4{
+  justify-content: center;
+  align-items: center;
+  text-align:center;
+}
+.bx1{
+  justify-content: center;
+  align-items: center;
+  text-align:center;
+  display:flex;
+  margin-left:0rem;
+}
+.bx2{
+  justify-content: center;
+  align-items: center;
+  text-align:center;
+  display:flex;
+  margin-left:0rem;
+}
+.ppp{
+  justify-items: space-around;
+  display: flex;
+  
+}
